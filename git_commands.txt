@@ -51,7 +51,7 @@ Sharing & Updating Projects:
 git push origin [branch name] -> push a branch to your remote repository
 git push -u origin [branch name] -> push changes to remote repository (and remember the branch]
 git push -> push changes to remote repository (remembered branch) (repository already defined)
-git push origin --delete [branch name] delete a remote branch (repository not defined yet)
+git push origin --delete [branch name] delete a remote branch
 git pull -> update local repository to the newest commit
 git pull origin [branch name] -> pull changes from remote repository
 git remote add origin ssh://git@github.com/[username]/[repository-name].git

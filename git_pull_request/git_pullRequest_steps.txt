@@ -1,0 +1,9 @@
+Pull Request Steps:
+-Find a project you want to contribute
+-Fork it
+-Clone it to local system
+-Make a new branch
+-Make changes
+-Push it back to your repo
+-Click the compare and pull request button
+-Click create pull request
