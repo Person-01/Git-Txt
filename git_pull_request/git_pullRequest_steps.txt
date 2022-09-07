@@ -1,3 +1,4 @@
+Pull Request Steps:
 -Find a project you want to contribute
 -Fork it
 -Clone it to local system
